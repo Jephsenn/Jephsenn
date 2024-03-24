@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌎 I'm a web developer who loves tinkering with code and creating cool websites.
+- 🌎 I'm a web developer and software engineer who loves tinkering with code and creating cool websites.
 - 🛠️ Lately, I've been crafting handy scripts for MacOS to make life easier for IT folks.
 - 💬 Got questions? Feel free to ask!
 
